@@ -12,4 +12,7 @@ Lineage 2 emulator written in JAVA
 ## How to install (in spanish)
 [Complete guide to install this project](https://l2devsadmins.net/reynaldev/index.php?topic=187.msg191#msg191)
 
+## Forum
+[Main language, Spanish](https://l2devsadmins.net/reynaldev/)
+
 ### Project is currently hosted in SourceForge, this is a link to publicize the existence of the project.
