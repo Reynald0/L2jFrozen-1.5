@@ -1,4 +1,5 @@
-# L2jFrozen 1.5
+![L2jFrozen 1.5 Logo](http://l2devsadmins.net/l2devsAdmins2-0-11/l2devshostfiles/ficheros_subidos/1522039163_L2jFrozen15_copia.png "L2jFrozen 1.5")
+
 Lineage 2 emulator written in JAVA
 
 ## Information about this project (in spanish):
