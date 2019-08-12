@@ -25,6 +25,6 @@ Lineage 2 emulator written in JAVA
 * [Youtube](https://www.youtube.com/channel/UCyPplyR6HYLGkf1M-WKkRIQ) 
 
 ## Contribute with the project
-![Donate](https://reynaldev.pythonanywhere.com/static/img/donate_with_paypal.png "Donate")
+[![Donate](https://reynaldev.pythonanywhere.com/static/img/donate_with_paypal.png "Donate")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J2GJCGMGBNK6E&source=url)
 
 ### Project is currently hosted in SourceForge, this is a link to publicize the existence of the project.
