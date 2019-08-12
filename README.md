@@ -19,10 +19,12 @@ Lineage 2 emulator written in JAVA
 ## Contact
 
 * [Messenger](http://m.me/ReynalDevs)
-* Donations Paypal: reynaldobernard15@gmail.com
 * [Forum](https://l2devsadmins.net/reynaldev/) 
 * [Website](https://reynaldev.pythonanywhere.com/) 
 * [Facebook](https://www.facebook.com/ReynalDevs/)
 * [Youtube](https://www.youtube.com/channel/UCyPplyR6HYLGkf1M-WKkRIQ) 
+
+## Contribute with the project
+![Donate](https://reynaldev.pythonanywhere.com/static/img/donate_with_paypal.png "Donate")
 
 ### Project is currently hosted in SourceForge, this is a link to publicize the existence of the project.
