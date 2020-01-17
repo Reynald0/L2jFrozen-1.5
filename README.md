@@ -9,6 +9,7 @@ Lineage 2 emulator written in JAVA
 
 
 ## Source Code
+### Project is currently hosted in SourceForge, this is a link to publicize the existence of the project.
 [SourceForge](https://sourceforge.net/p/l2jfrozen/code/commit_browser)
 
 
@@ -29,4 +30,3 @@ Lineage 2 emulator written in JAVA
 ## Contribute with the project
 [**Donate using PayPal**](https://l2devsadmins.net/reynaldev/index.php?board=56.0) 
 
-### Project is currently hosted in SourceForge, this is a link to publicize the existence of the project.
